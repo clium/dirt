@@ -1,0 +1,12 @@
+[package]
+name = "dirt"
+version = "0.1.0"
+authors = ["Naman Sandilya <namansandilya@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Directory Traverser; WIP"
+repository = "https://github.com/clium/dirt"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
